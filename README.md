@@ -12,7 +12,8 @@ Data Preprocessing: Comprehensive cleaning, feature engineering, and transformat
 Model Development: Built and tested multiple neural network models to improve prediction accuracy.
 Techniques Used: Regularization, K-Fold Cross-Validation, and Ensemble Learning.
 Insights: Identified key user behavior patterns and financial constraints impacting subscription likelihood.
-Tools & Technologies
+
+## Tools & Technologies
 Programming Language: Python
 Libraries: TensorFlow, Keras, Pandas, NumPy, Seaborn, Matplotlib
 Databases: MongoDB, MySQL
